@@ -19,7 +19,7 @@ This project scrapes doctor data from [Practo Mumbai Doctors](https://www.practo
 ### Setup
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/meravigupta/practo-doctor-scraper-django-app.git>
     cd doctor_app
     ```
 
